@@ -1,4 +1,16 @@
 # Writing Functions in R
+# Named Parameters and Default Parameters
+# The “Gobble Up Everything Else” Parameter: “...”
+# Functions Don’t Have Names
+# Lazy Evaluation
+# Functions Don’t Have Names
+# Vectorized Functions
+# User-defined Infix Operators
+# Replacement Functions  
+
+################################################################################
+
+# Writing Functions in R
 
 square <- function(x){
   x^2
